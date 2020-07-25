@@ -1,3 +1,3 @@
 # COVID-19-Casos-nuevos
 
-Link  Cuaderno de Jupyter:https://drive.google.com/file/d/11mYstx_Y8XCEFvk7y6-MHPHqUZNAGJ5s/view?usp=sharing
+Link  Cuaderno  en Google Colab : https://colab.research.google.com/drive/1-V8h25S5bJqcmWXLYoNkFykX0Hw_Q2pj?usp=sharing
